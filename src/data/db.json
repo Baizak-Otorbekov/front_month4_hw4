@@ -1,0 +1,622 @@
+[
+    {
+        "id": "408",
+        "shop": 8,
+        "category": [
+            273
+        ],
+        "title": "Bob's Red Mill",
+        "description": "Использовать до: 12.2025\r\n    В продаже начиная с: 05.2019\r\n    Вес в упаковке:  0.48 кг\r\n    Код товара: BRM-03391\r\n    UPC Код: 039978033918\r\n    Количество в упаковке: 453.592 г\r\n    Размеры: 15.5 x 11 x 7.1 см, 0.48 кг",
+        "image": "https://i.ebayimg.com/thumbs/images/g/aMIAAOSwMmNjuxVe/s-l225.jpg",
+        "product_attributes": [],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 234,
+                "product": 408,
+                "image": "https://i.goodwinehome.com.ua/17588-productCatalog/myusli-s-fruktami--orekhami-i-semenami-tykvy-bez-glyutena-453g--bob-s-red-mill.jpg"
+            }
+        ],
+        "price": 680,
+        "old_price": 720,
+        "currency": "KGS",
+        "shop_name": "baget",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/th.jpg",
+        "review_count": 0,
+        "product_code": "1007672944",
+        "average_rating": null,
+        "created": "2024-02-23T00:33:25.017991+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    },
+    {
+        "id": "337",
+        "shop": 2,
+        "category": [
+            168
+        ],
+        "title": "Робот-пылесос Xiaomi X10 B102GL White",
+        "description": "Полностью автоматическая очистка и удаление пыли\r\nАвтоматический отсек для мусора 1 мешок для сбора пыли, рассчитанный на более чем 60 сборов пыли. Двухканальная конструкция основания для сбора пыли с мощным всасыванием 17000 Па мгновенно очищает мусорный бак. Встроенный пылесборник может собирать и опорожнять пыль более 60 раз, и он автоматически закрывается, когда вы берете его в руки, так что вы не будете контактировать с пылью.",
+        "image": "https://static.ru-mi.com/upload/resize_cache/iblock/8e7/440_440_1/4uk6rhayzif1o6k0mvcy7k2f3c2njndb.jpg",
+        "product_attributes": [
+            {
+                "key": "Тип уборки",
+                "value": "Сухая влажная"
+            },
+            {
+                "key": "Мощность всасывания",
+                "value": "4000 ПА"
+            },
+            {
+                "key": "Уровень шума",
+                "value": "60 дБ"
+            },
+            {
+                "key": "Турборежим",
+                "value": "Да"
+            },
+            {
+                "key": "Объем пылесборника",
+                "value": "0,4 л"
+            },
+            {
+                "key": "Объем резервуара для воды",
+                "value": "200 мл"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 79,
+                "product": 337,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_24_1108_1_6.webp"
+            },
+            {
+                "id": 80,
+                "product": 337,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_24_1108_4_6.webp"
+            },
+            {
+                "id": 81,
+                "product": 337,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_24_1108_5_6.webp"
+            }
+        ],
+        "price": 41190,
+        "old_price": 43249,
+        "currency": "KGS",
+        "shop_name": "Kuma",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+        "review_count": 5,
+        "product_code": "2937991316",
+        "average_rating": 4.4,
+        "created": "2024-02-14T19:08:46.541835+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    },
+    {
+        "id": "282",
+        "shop": 2,
+        "category": [
+            33,
+            34
+        ],
+        "title": "ZTE Nubia NEO 5G 8\\256GB Black",
+        "description": "Полное погружение в виртуальную реальность\r\nСмартфон ZTE Nubia NEO 5G предлагает беспрецедентные возможности для иммерсивной игры. Мощная мобильная платформа на базе 6 нм процессора Unisoc T820 с частотой до 2.7 ГГц обеспечивает суперплавную и быструю работу всех приложений. Поддержка 5G гарантирует стабильную связь и супербыстрый обмен данными. 6.6-дюймовый дисплей с частотой обновления 120 Гц просто создан для динамичной игры. Батарея 4500 мАч и зарядка мощностью 22.5 Вт позволят забыть о дефиците заряда на целый день.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxFP8HXSjnFahJbSAWC7q64qKLe703x8dhw&s",
+        "product_attributes": [
+            {
+                "key": "Основная камера",
+                "value": "50 Mpx + 2 Mpx"
+            },
+            {
+                "key": "Фронтальная камера",
+                "value": "8 Mpx"
+            },
+            {
+                "key": "Объем оперативной памяти",
+                "value": "8 GB"
+            },
+            {
+                "key": "Объем встроенной памяти",
+                "value": "256 GB"
+            },
+            {
+                "key": "Процессор",
+                "value": "Unisoc T820"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 9,
+                "product": 282,
+                "image": "https://bee.webtm.ru/media/product_images/zte_2.webp"
+            },
+            {
+                "id": 10,
+                "product": 282,
+                "image": "https://bee.webtm.ru/media/product_images/zte_3.webp"
+            },
+            {
+                "id": 11,
+                "product": 282,
+                "image": "https://bee.webtm.ru/media/product_images/zte_4.webp"
+            },
+            {
+                "id": 12,
+                "product": 282,
+                "image": "https://bee.webtm.ru/media/product_images/zte_5.webp"
+            }
+        ],
+        "price": 21590,
+        "old_price": 22669,
+        "currency": "KGS",
+        "shop_name": "Kuma",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+        "review_count": 1,
+        "product_code": "1639361860",
+        "average_rating": 5,
+        "created": "2024-01-24T16:17:56.245097+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    },
+    {
+        "id": "284",
+        "shop": 2,
+        "category": [
+            53,
+            33,
+            83
+        ],
+        "title": "Apple iPhone 15 6/128GB Blue",
+        "description": "iPhone 15 с Dynamic Island, основной камерой 48 Мп и USB-C — в алюминиевом корпусе и с прочной задней панелью из насыщенного цветом стекла.\r\n\r\n\r\nОсновные характеристики\r\nDYNAMIC ISLAND НА iPhone 15.\r\nБлагодаря Dynamic Island оповещения и Эфир активности удобно отображаются в верхней части экрана, поэтому вы ничего не пропустите, пока будете заниматься другими делами. Вы можете смотреть, кто звонит, проверять информацию о рейсе и делать многое другое.\r\nОСНОВНАЯ КАМЕРА 48 МП И ЗУМ 2X.\r\nОсновная камера 48 Мп позволяет делать снимки с невероятно высоким разрешением. Создавать качественные фотографии с потрясающей детализацией ещё никогда не было так просто. Оптический зум 2X — это отличный инструмент для съёмки крупным планом.\r\nМОЩНЫЙ ЧИП A16 BIONIC.\r\nСупербыстрый чип обеспечивает работу передовых функций iPhone: обработка фотографий, плавное отображение Dynamic Island и режим «Изоляция голоса» во время звонков. А ещё A16 Bionic очень энергоэффективен, поэтому вашим устройством можно пользоваться целый день без подзарядки.3\r\nВАЖНЕЙШИЕ ФУНКЦИИ БЕЗОПАСНОСТИ.\r\nФункция «Распознавание аварии» позволяет iPhone определить серьёзную автомобильную аварию и вызвать помощь, когда вы не можете.4\r\nИННОВАЦИОННЫЙ ДИЗАЙН.\r\niPhone 15 Plus изготовлен из алюминия и оснащён прочной задней панелью из насыщенного цветом стекла. Он устойчив к воздействию брызг, воды и пыли.1 А дисплей Super Retina XDR 6,7 дюйма2 обеспечивает вдвое большую яркость по сравнению с iPhone 14 и надёжно защищён Ceramic Shield.\r\nПОРТРЕТЫ НА НОВОМ УРОВНЕ.\r\nСоздавайте более детализированные и насыщенные фото. Просто коснитесь объекта, чтобы перевести на него фокус, — даже когда кадр уже отснят.\r\nПОДКЛЮЧЕНИЕ ЧЕРЕЗ USB-C.\r\nБлагодаря порту USB-C вы можете заряжать Mac или iPad с помощью того же кабеля, что и iPhone 15. Более того, от iPhone 15 можно подзаряжать Apple Watch или AirPods.\r\nСОЗДАН ДЛЯ ПЕРЕМЕН К ЛУЧШЕМУ.\r\nВ iPhone предусмотрены средства защиты конфиденциальности, поэтому вашими данными управляете только вы. Он изготовлен из большего количества переработанных материалов, что минимизирует влияние на окружающую среду. А встроенные функции делают iPhone ещё более удобным для каждого.",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8REhAQDxAQDw4QFhAPDxANDw8PDw8QFREWFhUVFxUYHSggGBolJxUTITIhJSkuLi4uFx8zODMsNygtLisBCgoKDg0OGRAQFS0dHSAtLS0tLS0tKy0tLS0tKystLSsrLS0tKy0tLS0tLSsrLSstKysrKy0tLS0tNy0tNys3Lf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYBBAcDAgj/xABJEAACAQMCAgUHCAUICwAAAAAAAQIDBBEFIRIxBhNBUXEHImGBkbHCMlJydaGywdEUFSOT00JDYnOSouHwCDVFVWNkZYKDo7P/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQQDAv/EACARAQEAAgMBAAMBAQAAAAAAAAABAhEDITEEEjJBYVH/2gAMAwEAAhEDEQA/AO0AAAAAAAAABsACvdLemVlplOM7uclKeeqpU48Varjm1HsXpbS3K7pflk0iq1Go69o3y/SaPmv05g5YXiB0MGppuqW9zHjtq9KvD51GpGovXh7G2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI++1KNOXC+aSftJAqWv27lXqNySWIY7/kLsLEqsaRZxvtX1G9uEqkbKVOytIzSlGnKMc1JJd+ctP8Apv0Fr1mlQlSl+kUqdaGPkVoRqJvsWGiveTveWrvt/WN37oEp0gq5nSpL6cvbhfid8J05Z3SoQ8nlrUl11vKtY1nlqdnVlDGfQ+S9CwbtCr0js5unQvrTVeBKTt7vhp3fD7U9++Ui5WNPCRxHyodFL+F9XuqdGtWoVZRqwrUIyn1eIraXDvDDW2ezA5McZ/Hjjyyt9dMoeVaNFqGrafd6fLPD1ig61u36JJJv1Jly0XpNYXiza3VGs+fBGaVReMHiS9h+ZdL6f6pQ8xXMq1Pk6V2lXi13Ny85L0Jo6DpegadqdrRvZWsbarLijVdk3R4KkZNSlBLK7MrKeM9pymP5eO1yuPrt4OXUND1qzxLTtU/SaS3jb6pF1E13dat/Zwls6H9KXedbQuKErPULfhdxbTaknGXyatOa2nB8srk/FN+bjY9SyrKACKAAAAAAAAAAAAAAAAAAAAAAAAFc1qH7Sp4L7iLGQerY4597WF/Yz+DLEqoeTjnq31ld+6Bu6g+K7a+aor7M/iafk356t9ZXfugbNR5vKvivuo08X8Z+XyrHax2RuxRq23YbkS5OeKI1nozY3ef0q1o1m9uOUEqqXoqLEl6meVpodG3oxtrWlwUoZ4IRcpPdtttttvdvdk5I8bfUIKXAvlN4fqePzPFy/Ht0mP5dbeFhp9WMFGeE1nCzl8PZkitc0utG4sb2hTcqtvVVGtwP5dlW82qn38LcZpf0XjmWLVL6NGlKpJ8MUpTnL5sIpuT9iZx6w8tFTr/21uoWUnjijOUq9OHzpJ7S9KXqyc7la7Sa8dvTT5b+Bkj6VxxKM1wzjJKSlHZtNZTRuU90nGW3p3/xPGnrb0Bjfuz4P8GOJeD9OxFZAAAAAAAAAAAAAAAAAAAAACB1aDdRtLbm3lbYpSXxL2MniG1WWJS9OE/XAsSqh5N+er/WV57oHpcPF7V8Yv8Auo+PJtz1f6yvPdAa7UjSu5zm1GPBCbb8MfgaeL+M/L5VrtHsjdOaVunNTPDbU0orbin50n6uSN2w6WXj3nGMl9FL3HTLjyvbPjzYzpfyu2lHFeMnLL45PCz257T7sOlFOb4asXTl384npRj58GuTllPxTOHJLPWnjyl8fHTik6ttUoJ4lWpVaMW+SlUhKMc+txXrPzVOK4VlcM4+bKLTUsp78SfJrdeo/UmtWiqRSe/mtYfJruKVX6A2dxW62vScpN5m1KdNVX/xIp4k+9rGe3Jzdd6Tnk7qy/V1hGeU+og4t9sUsR+zhLZZvmu/EvX2lM13pnpth1VKs3xNZpwowc3Cmnw8WIraOzS78bFp0PUKNxCFehONSjUjmM48nvuvQ1yx2EEsGgCK+MY27Oz8jIn+KBFgAAoAAAAAAAAAAAAAAAAQmsfKl4x+6TZC6qlxtvO3LD2z1eFnv7faWJVS8mv+1/rK890CA8ot6qt11MOVOMY1H3y3f2ZSJ/yaNL9bt8lqV434cMCjwm6terVlznOUn63k2fPNsX15amv+pTR9OWFsWi0sljkaemUtkT9tA051iwjSqabF9hM2tPHVLu4F/dMRgbNGO9Pxj7jHz3em75pq1s3Cyo+tfaRsJVOGTmoqTc+BQztDL4M5/lcskrdU2s9q5+DI+4ksPseH6ThGmuA9PbeVTUbmLztGg6O6jHq1Qp43fZ8rl2l6/wBHq+m1e27bcKfV1o57JTcoy8M8EX7Tw6VdFVeTjKM3SrQzGE1FSXA3ngmsp4TcmpLlxNNPZq6+S/ojHTqNTM+sq1mnOfDwrC5RSy9lv282/BSvUvS7mTAIMT/L3gT5ez3giwAAUAAAAAAAAAAAAAAAAIPWecvGP3CcITVoNylukl5z23eKeyXdz+wsSqZ0Dlijrj7r6/f/AK4FS0qPnPxLb0Djmjri/wCev/8A5wKtp6xJ+Js+e6jB9fsW/T+SJu3K9p9TkTttM75M2LfgbFFb0/GBpwke9F+fR8H96Bk5v42/P7U80eU7eL5pHsZM7U0HplLOeFG7CONkfQAGQAPmfL2e8CfL2e8EWAACgAAAAAAAAAAAAAAABEalzqeHwIlyI1LnU8PgRYlU/wAm0Mw1ld+oXq9sIFUoU8Tl4v3lx8lq21b6yu/u0yEq2fDWqrunJfaaeKsf1Tx6Ws8E5ZVdiGlQaNi0qtczRLtiWCEzcovz6Hg/vQIalXJm3i+Kg8bJRWdt3Jxe39n7ThzzqNfy3dqwmQDK2hkAAAAPmf5e8GZfl7zBFgAAoAAAAAAAAAAAAAAAARGpc6nh8CJciNT51PD4EWJVK6B3XVUNamvlfrG7UfpONNI96Ns+Pfm1Fv2Ih+i08x1Cn87VbyT/AO2FP8y4VaGJwffHHsf+J342Tn7rSqWpoVLbGSyOka1e3Tydpky3FW1cOLf+ewulm/Nof+L3Ip2pWjTbRb7D5Fv4Ufuo8c93I6/J+2SwgAyt4fM5csb7mKz2ZqpgbwPmnyR9AYl+RgzIwRYAAKAAAAAAAAAAAAAAAAERqfOp4fAiXIjU3vU8PgLErmnQ7etfru1G+ftVI6HdQ2py7nj2r/A570LX7fUPrC991M6TVjmm/RiXseTrj/GbPu18KJ5zge9PdHzNHvbjYiLy3zklLVYVBd3VL7Ea9eJsUP5nxpk5L1Hr55rKp4AHBsYmspo0jeDigPijnCz/AJR6AAYkYMswRYAAKAAAAAAAAAAAAAAAAERqfOp4fAS5C6rPEprD3i91yWIdvtLErnfQ+OJ30v8Aqd9H+7SOl2yzHD5NYZznopH9nqMvm6tdr206f5HRLF+ajpPHDL968qG2z5xyn6j7kjN1Hhkpdkuf0kfLke/9cfOmtVR60v5r6VM8qrPan/NfSpnnPx74fanQAcmkAAAAAYkYMyMEWAACgAAAAAAAAAAAAAAABEapzqeHwIlyG1V71PD4EWJVH6HU82utP5mqXM/YqS/Eu2lTzFeCKv5NqPHR1uHztQvUvHq6eCb0CrmC7+R0x8cOT9k7UpqcXF9vJ9z7GRM5OLcZbNfb6US8GfNzbQqLEl4Nc0WXTzljtBVqyNyi9qPjTPGv0fbfm1sL0xy/eetKPD1UefDKnHPfjYZ2WdHFjlLdp8AHJoZBgyAAAGJGDMjAWAAIoAAAAAAAAAAAAAAAAQery86r4fAicK9rT8+r4fAixKhfJL8nV/rK7+7TN+1j1VetS7FJuP0XuveaHkm+Tq/1ld/cpkx0lo8FWlXXKX7Ofit1+PsPeLlyTraWpSPbJpWdTKRt5FeY+iGUvPp/1kfeTCIOMv2lP+sj7yV7xWUGAR7ZABBkGDIGJGBICrAAEUAAAAAAAAAAAAAAAAKl0k1Dq6045x5sX7YltK70j0Pr6kai5uPA/U3+f2FiVDeSh/64T5rUbmT8JQp49xctVs+upTp9r3i+6S3RzfQtRWl6tXoXUlTttTjSqUas2owjd0oqEot8lxZ4s/0oLtOpnqPNVfRrjbhltKOzT5pomlIi9btHSn+kQXmSx1qX8mXzvBntQuVJJo93twnV0kEyt0NQTrwhiOes4eSztJonoz2K7X0SXXSrU92p9aku154se9HiumK5A+KVRSSkuTWUfRHRkyYAGQYMkGJAxJ8kZFWAAIoAAAAAAAAAAAAAAAAYlHOxkAVTpZ0Sd/B0qvU1aWU11nHTqQa5NTinusvf0tcm0VKj5K7+nFQoavd0KcViNOF3X4Y9yXDGKx6jrACacpl5MtVaaeuXjT2ad1ctNHxS8lmpx+TrVyvQri4wdZBdmnK35NdW/wB+XS8Li4/MkND6GazaVOtjqzuU1wzpXsq1WnJejO8X6V9p0QDZpB2tvqMG2/0Rxe7iqtZLPa0+r2JBSue2nQ/f1P4RuAbNNTiuPmUf39T+GZ4rj5lH99U/hm0Bs01eK4+ZR/fT/hmVKv2xpLwqzfwI2QNmnxCGN28y78YXqR9gEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//Z",
+        "product_attributes": [
+            {
+                "key": "Основная камера",
+                "value": "48 Mpx + 12 Mpx"
+            },
+            {
+                "key": "Фронтальная камера",
+                "value": "12 Mpx"
+            },
+            {
+                "key": "Объем оперативной памяти",
+                "value": "6 GB"
+            },
+            {
+                "key": "Объем встроенной памяти",
+                "value": "128 GB"
+            },
+            {
+                "key": "Процессор",
+                "value": "A16 Bionic"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 17,
+                "product": 284,
+                "image": "https://bee.webtm.ru/media/product_images/apple_15_2.webp"
+            },
+            {
+                "id": 18,
+                "product": 284,
+                "image": "https://bee.webtm.ru/media/product_images/apple_15_3.webp"
+            },
+            {
+                "id": 19,
+                "product": 284,
+                "image": "https://bee.webtm.ru/media/product_images/apple_15_4.webp"
+            }
+        ],
+        "price": 92190,
+        "old_price": 96799,
+        "currency": "KGS",
+        "shop_name": "Kuma",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+        "review_count": 1,
+        "product_code": "2994178828",
+        "average_rating": 5,
+        "created": "2024-01-24T16:25:43.661698+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    },
+    {
+        "id": "340",
+        "shop": 2,
+        "category": [
+            168
+        ],
+        "title": "Karcher SC 2 EasyFix",
+        "description": "Пароочиститель Karcher SC 2 EasyFix - современная модель начального уровня с новой системой фиксации аксессуаров EasyFix, позволяющей максимально быстро подготовить аппарат к работе, избежать контакта с грязью. Бесконтактная смена салфетки, благодаря системе застежек на липучке и специальному язычку на самой салфетке.",
+        "image": "data:image/jpeg;base64,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",
+        "product_attributes": [
+            {
+                "key": "Макс. электрическая мощность",
+                "value": "1500 Вт"
+            },
+            {
+                "key": "Параметры электросети",
+                "value": "~1/230/50 ф/В/Гц"
+            },
+            {
+                "key": "Время нагрева",
+                "value": "6,5 мин"
+            },
+            {
+                "key": "Макс. давление пара",
+                "value": "3,2 бар"
+            },
+            {
+                "key": "Объём заливаемой воды",
+                "value": "1 л"
+            },
+            {
+                "key": "Регулятор расхода пара",
+                "value": "на рукоятке"
+            },
+            {
+                "key": "Длина кабеля",
+                "value": "4 м"
+            },
+            {
+                "key": "Масса без принадлежностей",
+                "value": "3 кг"
+            },
+            {
+                "key": "Размеры, ДхШхВ",
+                "value": "380х254х260 мм"
+            },
+            {
+                "key": "Вес в упаковке",
+                "value": "4,7 кг"
+            },
+            {
+                "key": "Страна происхождения",
+                "value": "Германия"
+            },
+            {
+                "key": "Предыдущие модели, версии",
+                "value": "SC 1020 (1.512-211.0); SC 1.020 (1.512-227.0); SC 2 (1.512-000.0); SC 2 EasyFix (1.512-050.0)"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 88,
+                "product": 340,
+                "image": "https://bee.webtm.ru/media/product_images/012630_middle-1.jpg"
+            },
+            {
+                "id": 89,
+                "product": 340,
+                "image": "https://bee.webtm.ru/media/product_images/012630_middle-2.jpg"
+            },
+            {
+                "id": 90,
+                "product": 340,
+                "image": "https://bee.webtm.ru/media/product_images/012630_middle-3.jpg"
+            }
+        ],
+        "price": 11590,
+        "old_price": 12169,
+        "currency": "KGS",
+        "shop_name": "Kuma",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+        "review_count": 0,
+        "product_code": "3267336599",
+        "average_rating": null,
+        "created": "2024-02-14T20:43:08.534930+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    },
+    {
+        "id": "342",
+        "shop": 2,
+        "category": [
+            192
+        ],
+        "title": "Корзина для белья с крышкой Eco&Clean \"Артлайн\" 60л",
+        "description": "Современная, легкая и прочная\r\nПредназначена для хранения белья перед стиркой. Размер корзины позволяет разместить ее в ограниченном пространстве ванной комнаты. Корзина имеет специальные отверстия на стенках, что создает идеальные условия для проветривания. Изделие оснащено крышкой.",
+        "image": "data:image/jpeg;base64,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",
+        "product_attributes": [
+            {
+                "key": "Тип",
+                "value": "Корзина для белья"
+            },
+            {
+                "key": "Страна производителя",
+                "value": "Россия"
+            },
+            {
+                "key": "Цвет",
+                "value": "Бежевый"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 93,
+                "product": 342,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_439_169_0_1.webp"
+            },
+            {
+                "id": 94,
+                "product": 342,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_439_169_1_1.webp"
+            }
+        ],
+        "price": 2590,
+        "old_price": 2719,
+        "currency": "KGS",
+        "shop_name": "Kuma",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+        "review_count": 0,
+        "product_code": "2945637554",
+        "average_rating": null,
+        "created": "2024-02-15T11:04:43.259442+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    },
+    {
+        "id": "359",
+        "shop": 8,
+        "category": [
+            208
+        ],
+        "title": "ВЫПРЯМИТЕЛЬ MAXWELL MW-2218",
+        "description": "Еженедельное посещение салонов красоты для вас непозволительная роскошь? Выход есть! С нашим новым выпрямителем MAXWELL MW-2218 BK вы сможете придать волосам привлекательный вид, прямо не выходя из дома. Технология позволяет защитить ваши волосы от излишнего перегрева и гарантирует безупречный результат. Вращающийся шнур питания гарантирует отсутствие неудобств, а благодаря петле на корпусе вы сможете разместить прибор в любом удобном месте.",
+        "image": "https://avatars.mds.yandex.net/get-mpic/1543318/img_id2805520109727829050.jpeg/300x400",
+        "product_attributes": [],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 154,
+                "product": 359,
+                "image": "https://bee.webtm.ru/media/product_images/OIP_5_A5yDklr.jpg"
+            }
+        ],
+        "price": 2199,
+        "old_price": 2308,
+        "currency": "KGS",
+        "shop_name": "baget",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/th.jpg",
+        "review_count": 0,
+        "product_code": "1014434724",
+        "average_rating": null,
+        "created": "2024-02-15T19:57:51.496196+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    },
+    {
+        "id": "281",
+        "shop": 4,
+        "category": [
+            36
+        ],
+        "title": "Xiaomi Redmi 12 8/256GB Midnight Black",
+        "description": "Захватывающий экран для впечатляющего визуального опыта.\r\nСмартфон оснащен 6.79-дюймовым IPS LCD-экраном с разрешением 1080 x 2400 пикселей и соотношением сторон 20:9. С этим экраном пользователи могут наслаждаться яркими и четкими цветами, а также широким углом обзора. Благодаря частоте обновления 90 Гц, экран обеспечивает плавную прокрутку и реактивность при использовании смартфона.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUSF4YCTtKnImJ3oIdXiy9kIBG23lV0QOVZQ&s",
+        "product_attributes": [
+            {
+                "key": "Основная камера",
+                "value": "50 Mpx + 8 Mpx + 2 Mpx"
+            },
+            {
+                "key": "Фронтальная камера",
+                "value": "8 Mpx"
+            },
+            {
+                "key": "Объем оперативной памяти",
+                "value": "8 GB"
+            },
+            {
+                "key": "Процессор",
+                "value": "MediaTek Helio G88"
+            }
+        ],
+        "product_configurator": [
+            {
+                "id": 4,
+                "configurator_key": "color",
+                "key": "Цвет товара:",
+                "values": [
+                    {
+                        "price": "0",
+                        "title": "rgb(0, 0, 0)"
+                    },
+                    {
+                        "price": "9000",
+                        "title": "rgb(255, 0, 0)"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "configurator_key": "memory",
+                "key": "Конфигурация памяти:",
+                "values": [
+                    {
+                        "price": "0",
+                        "title": "128GB"
+                    },
+                    {
+                        "price": "9000",
+                        "title": "256 GB"
+                    },
+                    {
+                        "price": "12000",
+                        "title": "512 GB"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "configurator_key": "sim",
+                "key": "Количество SIM-карт:",
+                "values": [
+                    {
+                        "price": "0",
+                        "title": "Dual + eSIM"
+                    },
+                    {
+                        "price": "1000",
+                        "title": "Dual Sim"
+                    }
+                ]
+            }
+        ],
+        "product_images": [
+            {
+                "id": 5,
+                "product": 281,
+                "image": "https://bee.webtm.ru/media/product_images/redmi_12_2.webp"
+            },
+            {
+                "id": 6,
+                "product": 281,
+                "image": "https://bee.webtm.ru/media/product_images/redmi_12_3.webp"
+            },
+            {
+                "id": 7,
+                "product": 281,
+                "image": "https://bee.webtm.ru/media/product_images/redmi_12_4.webp"
+            },
+            {
+                "id": 8,
+                "product": 281,
+                "image": "https://bee.webtm.ru/media/product_images/redmi_12_5.webp"
+            }
+        ],
+        "price": 17690,
+        "old_price": 30000,
+        "currency": "KGS",
+        "shop_name": "ArzanAll",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-38.jpg",
+        "review_count": 11,
+        "product_code": "7655995241",
+        "average_rating": 3.73,
+        "created": "2024-01-24T16:14:32.103028+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    },
+    {
+        "id": "420",
+        "shop": 8,
+        "category": [
+            173
+        ],
+        "title": "Игрушечные машины линейки World car от Mimi world",
+        "description": "World Car - это серия игрушечных машин от Mimi world. Некоторые игрушечные машинки можно заводить с помощью ключа зажигания. Дети могут играть в пожарных, полицейских либо устраивать гонки модных спортивных машин.",
+        "image": "https://a.lmcdn.ru/img389x562/M/P/MP002XC01JZE_21885691_1_v1.jpeg",
+        "product_attributes": [],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 246,
+                "product": 420,
+                "image": "https://bee.webtm.ru/media/product_images/92a4f5a8-b337-4bf9-bb88-8c0ef89b5d9c_HKoqamw.jpg"
+            }
+        ],
+        "price": 3400,
+        "old_price": 4700,
+        "currency": "KGS",
+        "shop_name": "baget",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/th.jpg",
+        "review_count": 0,
+        "product_code": "6214186474",
+        "average_rating": null,
+        "created": "2024-02-23T12:04:51.879468+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    },
+    {
+        "id": "280",
+        "shop": 2,
+        "category": [
+            34
+        ],
+        "title": "Apple iPhone 13 4/128GB Midnight",
+        "description": "Дисплей Super Retina XDR 6,1 дюйма\r\nРежим «Киноэффект» автоматически переводит фокус между объектами при съёмке видео и создаёт красивый эффект размытия\r\nПередовая система двух камер 12 Мп (широкоугольная и сверхширокоугольная); Фотографические стили, Smart HDR 4, Ночной режим, съёмка HDR-видео 4K в стандарте Dolby Vision\r\nФронтальная камера TrueDepth 12 Мп: Ночной режим, съёмка HDR‑видео 4K в стандарте Dolby Vision\r\nA15 Bionic — чип, с которым всё супербыстро\r\nДо 19 часов воспроизведения видео\r\nПанель Ceramic Shield для повышенной прочности\r\nНадёжная защита от воды (IP68)\r\niOS 15 с новыми функциями, расширяющими возможности iPhone\r\nПоддержка аксессуаров MagSafe, которые легко крепятся и обеспечивают более быструю беспроводную зарядку",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmWDZbmJNC8ECa0aajL3td527msI1p6UFIFw&s",
+        "product_attributes": [
+            {
+                "key": "Основная камера",
+                "value": "12 Mpx + 12 Mpx"
+            },
+            {
+                "key": "Фронтальная камера",
+                "value": "12 Mpx"
+            },
+            {
+                "key": "Объем оперативной памяти",
+                "value": "4 GB"
+            },
+            {
+                "key": "Объем встроенной памяти",
+                "value": "128 GB"
+            },
+            {
+                "key": "Процессор",
+                "value": "A15 Bionic"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 1,
+                "product": 280,
+                "image": "https://bee.webtm.ru/media/product_images/apple_13_2.webp"
+            },
+            {
+                "id": 2,
+                "product": 280,
+                "image": "https://bee.webtm.ru/media/product_images/apple_13_3.webp"
+            },
+            {
+                "id": 3,
+                "product": 280,
+                "image": "https://bee.webtm.ru/media/product_images/apple_13_4.webp"
+            },
+            {
+                "id": 4,
+                "product": 280,
+                "image": "https://bee.webtm.ru/media/product_images/apple_13_5.webp"
+            }
+        ],
+        "price": 68690,
+        "old_price": 72124,
+        "currency": "KGS",
+        "shop_name": "Kuma",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+        "review_count": 0,
+        "product_code": null,
+        "average_rating": null,
+        "created": "2024-01-24T16:11:35.711645+06:00",
+        "weight": null,
+        "length": null,
+        "width": null,
+        "quantity": 1
+    }
+]
